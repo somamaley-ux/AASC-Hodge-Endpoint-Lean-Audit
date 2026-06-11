@@ -1,0 +1,7 @@
+import MaleyLean.Papers.Hodge.AuditRunners
+
+#print axioms MaleyLean.Papers.Hodge.AuditRunners.hodgeFocusedAuditRunnerFiles_count_eq
+#print axioms MaleyLean.Papers.Hodge.AuditRunners.hodgeAuditRunnerSummary_populated
+#print axioms MaleyLean.Papers.Hodge.AuditRunners.hodgeAuditRunnerIncludesTruthBoundary
+#print axioms MaleyLean.Papers.Hodge.AuditRunners.hodgeAuditRunnerEndpointClosurePercent_eq
+#eval MaleyLean.Papers.Hodge.AuditRunners.hodgeAuditRunnerSummary

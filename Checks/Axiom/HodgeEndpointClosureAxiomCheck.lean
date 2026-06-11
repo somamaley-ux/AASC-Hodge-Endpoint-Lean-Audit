@@ -1,0 +1,12 @@
+import MaleyLean.Papers.Hodge.EndpointClosure
+
+#print axioms MaleyLean.Papers.Hodge.EndpointClosure.hodgeOfficialEmptyFiberCounterexampleForce_endpointUse
+#print axioms MaleyLean.Papers.Hodge.EndpointClosure.hodgeNoAutonomousCounterexampleEndpointRole
+#print axioms MaleyLean.Papers.Hodge.EndpointClosure.hodgeNoAutonomousSixthEndpointRole
+#print axioms MaleyLean.Papers.Hodge.EndpointClosure.hodgeOfficialCounterexampleForce_projects_to_emptyFiberSeparator
+#print axioms MaleyLean.Papers.Hodge.EndpointClosure.hodgeEmptyFiberSeparator_induces_DFib
+#print axioms MaleyLean.Papers.Hodge.EndpointClosure.hodgeNFib_excludes_DFib
+#print axioms MaleyLean.Papers.Hodge.EndpointClosure.hodgeLocalCountercase_impossible_of_noIndependentDiscriminator
+#print axioms MaleyLean.Papers.Hodge.EndpointClosure.hodgeNonemptyCycleFiber_forced
+#print axioms MaleyLean.Papers.Hodge.EndpointClosure.hodgeEndpoint_of_aascContext
+#eval MaleyLean.Papers.Hodge.EndpointClosure.HodgeEndpointClosurePercent
