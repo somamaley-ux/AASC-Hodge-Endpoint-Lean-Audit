@@ -2,7 +2,7 @@
 
 Title:
 
-`AASC Hodge Endpoint Lean Audit Archive v0.1.0`
+`AASC Hodge Endpoint Lean Audit Archive v0.1.1`
 
 Notes:
 
@@ -31,6 +31,14 @@ Audit status:
 - no live project-level `axiom`, `sorry`, `admit`, or `unsafe` declaration in
   the active AASC/Hodge audit surface
 
+Published manuscript snapshot:
+
+The `papers/hodge` directory carries the conservative redundancy-trimmed Lean
+appendix edition of the Hodge empty cycle-fiber endpoint paper as the
+controlling published snapshot for this archive.  The snapshot preserves the
+proof spine and Lean4 Hodge endpoint audit appendix while consolidating
+repeated defensive scaffolding.
+
 Main Lean closeout:
 
 ```lean
@@ -42,17 +50,19 @@ Boundary:
 Classical Hodge theory supplies carrier/route standing. The Lean audit checks
 the AASC endpoint-use, empty-fiber separator, and no-independent-discriminator
 closure route.
+
 ## Manuscript-Faithful Mechanization Standard
 
 This repository is calibrated to the manuscript as the proof object.  The Lean
-surface formalizes the manuscript-facing AASC endpoint route for the Hodge endpoint:
-fixed-carrier endpoint use, the target-specific negative/separator occupation,
-same-domain discriminator exclusion, and the final represented endpoint
-closeout.
+surface formalizes the manuscript-facing AASC endpoint route for the Hodge
+endpoint: fixed-carrier endpoint use, the target-specific negative/separator
+occupation, same-domain discriminator exclusion, and the final represented
+endpoint closeout.
 
-The classical rational Hodge-class, algebraic-cycle, cycle-class, and cycle-fiber carrier and equivalence bridges are represented by
-named adequacy, standing, or bridge anchors matching the manuscript.  They are
-not claimed here as a full first-principles formalization of the surrounding
-classical subject.  The repo therefore should be read as a manuscript-faithful
-AASC endpoint mechanization, with explicit carrier-adequacy boundaries, rather
-than as a rebuilt-from-foundations formalization of the entire classical field.
+The classical rational Hodge-class, algebraic-cycle, cycle-class, and
+cycle-fiber carrier and equivalence bridges are represented by named adequacy,
+standing, or bridge anchors matching the manuscript.  They are not claimed here
+as a full first-principles formalization of the surrounding classical subject.
+The repo therefore should be read as a manuscript-faithful AASC endpoint
+mechanization, with explicit carrier-adequacy boundaries, rather than as a
+rebuilt-from-foundations formalization of the entire classical field.
