@@ -1,17 +1,19 @@
-Hodge_empty_cycle_fiber_endpoint_conservative_trim_project/
-  README.md
+Hodge_empty_cycle_fiber_endpoint_final_hardened_project/
   PROJECT_MANIFEST.txt
-  build.sh
-  src/main.tex
-  build/Hodge_empty_cycle_fiber_endpoint_no_sixth_role_manuscript.pdf
-  build/Hodge_empty_cycle_fiber_endpoint_lean_appendix_manuscript.pdf
-  support/corpus_support_extract.csv
-  support/support_table.tex
-  support/corpus_support_ledger.md
-  audit/theorem_ladder.md
-  audit/audit_checklist.md
+  README.md
   audit/anti_circularity_audit.md
+  audit/audit_checklist.md
   audit/route_locus_exhaustion.md
-  notes/referee_positioning.md
-  notes/lean_appendix_patch.md
+  audit/theorem_ladder.md
+  build/Hodge_empty_cycle_fiber_endpoint_lean_appendix_manuscript.pdf
+  build/Hodge_empty_cycle_fiber_endpoint_no_sixth_role_manuscript.pdf
+  build.sh
   notes/conservative_redundancy_trim_patch.md
+  notes/final_coequal_role_presentation_sweep.md
+  notes/hodge_hardening_patch.md
+  notes/lean_appendix_patch.md
+  notes/referee_positioning.md
+  src/main.tex
+  support/corpus_support_extract.csv
+  support/corpus_support_ledger.md
+  support/support_table.tex

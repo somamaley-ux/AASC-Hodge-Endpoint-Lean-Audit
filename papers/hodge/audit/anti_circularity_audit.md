@@ -17,3 +17,10 @@
 **Misreading:** The proof simply relabels ordinary empty-fiber falsification as forbidden.
 
 **Patch response:** The main body now separates raw content, ordinary theoremhood, support/obstruction status, bookkeeping, bridge-neutralized status, domain shift, and endpoint-defeating use. Only endpoint-defeating same-carrier use enters the no-sixth-role theorem. The theorem proves that a purported ordinary-native negative endpoint role either lacks endpoint force, exits the domain, is neutralized by bridge occupation, or becomes D_fib.
+
+## Hardened patch audit additions
+
+- No-one-step retyping: raw empty-fiber content is not directly typed as D_fib. Projection, endpoint counterforce, and native-counterforce exhaustion are required.
+- K-node weakening: a proposed weaker same-carrier regime must preserve target-slot fixation, report evaluability, standing-admissibility discipline, no repair, and carrier fidelity while permitting endpoint-resolving empty-fiber governance outside the five-route exhaustion. The manuscript now proves that no such weakening survives.
+- Bridge-object anti-circularity: B^cyc_X(alpha) fixes carrier and route only; nonempty fiber appears only when the bridge is complete.
+- Route-locus preservation: Hodge-theoretic tools are preserved as support or bridge material. Only overreporting into the rational Chow-fiber endpoint slot is blocked.

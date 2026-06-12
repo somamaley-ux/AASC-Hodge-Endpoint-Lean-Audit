@@ -17,3 +17,14 @@
 - [x] A+ no-independent closure supplies N_fib and excludes D_fib.
 - [x] Local reductio annotation is not an object-level premise.
 - [x] Universal Hodge endpoint is downstream of local discharge.
+
+## Hardened Hodge patch checks
+
+- [x] Claim-status ledger added.
+- [x] No-one-step-retyping lock added.
+- [x] Local Hodge K1-K13 packet added.
+- [x] Cycle-realization bridge object added.
+- [x] Ordinary-practice preservation theorem added.
+- [x] K5/K6/K11/K13 weakening-resistance theorem sequence added.
+- [x] Route-locus collapse audit added.
+- [x] Lean appendix hardening-boundary note added.

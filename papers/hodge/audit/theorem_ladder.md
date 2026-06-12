@@ -37,3 +37,16 @@ The final main-body closure adds the theorem family proving that ordinary native
 6. Empty-fiber endpoint-status work is not coequal occupation of the same endpoint image.
 7. Endpoint-status work not equivalent, not coequal, not shifting, not support, not bookkeeping, and not bridge-neutralized is independent endpoint-status discrimination: D_fib.
 8. Therefore no autonomous ordinary-negative endpoint role remains.
+
+## Hardened endpoint-defense patch additions
+
+25. Claim-status ledger separates carrier, standing, endpoint, bridge-program, negative-content, and Lean-audit layers before the proof spine.
+26. No-one-step-retyping lock prevents raw empty-fiber syntax from being identified directly with D_fib.
+27. Local Hodge K1-K13 packet expands the fixed-domain kernel consequences in Hodge/cycle vocabulary.
+28. Cycle-realization bridge object B^cyc_X(alpha) records the same-carrier bridge requirements and proves bridge-complete cycle realization yields nonempty fiber.
+29. Ordinary Hodge-theoretic practice preservation theorem protects Lefschetz, motives, Hodge loci, Abel-Jacobi, known cases, standard conjectures, and deformation/spread as lawful support or bridge material.
+30. Core Hodge endpoint adequacy packet C^0_Hdg isolates the weakening target.
+31. Empty-fiber-governance-permissive weakening is defined and exhausted.
+32. K5/K6/K11/K13 local necessity lemmas block plural endpoint interiors, standing outside admissibility, report overreach, and third endpoint truth status.
+33. No strict same-carrier weakening permits endpoint-resolving empty-fiber governance outside the five-route exhaustion.
+34. Route-locus collapse audit expands carrier, standing, Chow-fiber declaration, surrogate, obstruction, family, known-case, selector, repair, endpoint-classifier, and hidden-fifth/sixth loci.
